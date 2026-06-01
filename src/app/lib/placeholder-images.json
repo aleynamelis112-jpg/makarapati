@@ -1,0 +1,83 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "site-logo",
+      "description": "Makara Pati Logosu",
+      "imageUrl": "https://picsum.photos/seed/makarapatihq/400/400",
+      "imageHint": "cat logo"
+    },
+    {
+      "id": "cat-luxury-house",
+      "description": "Makaradan Lüks Kedi Evi",
+      "imageUrl": "https://picsum.photos/seed/luxuryhouse/800/800",
+      "imageHint": "luxury cat house"
+    },
+    {
+      "id": "cat-wall-forest",
+      "description": "Duvar Oyun Parkı - Orman Serisi",
+      "imageUrl": "https://picsum.photos/seed/forestpark/1200/800",
+      "imageHint": "forest cat playground"
+    },
+    {
+      "id": "cat-wall-art",
+      "description": "Duvar Oyun Parkı - Sanat Serisi",
+      "imageUrl": "https://picsum.photos/seed/artpark/1200/800",
+      "imageHint": "artistic cat wall"
+    },
+    {
+      "id": "cat-wall-nature",
+      "description": "Duvar Oyun Parkı - Doğa Serisi",
+      "imageUrl": "https://picsum.photos/seed/naturepark/1200/800",
+      "imageHint": "nature cat wall"
+    },
+    {
+      "id": "cat-prestige-castle",
+      "description": "Mobil Şato - Prestij Serisi",
+      "imageUrl": "https://picsum.photos/seed/prestigecastle/800/1000",
+      "imageHint": "prestige cat castle"
+    },
+    {
+      "id": "cat-eco-food",
+      "description": "Akıllı Mama İstasyonu - Eco Serisi",
+      "imageUrl": "https://picsum.photos/seed/ecofood/800/800",
+      "imageHint": "eco food station"
+    },
+    {
+      "id": "cat-aesthetic-litter",
+      "description": "Gizli Kum Ünitesi - Estetik Seri",
+      "imageUrl": "https://picsum.photos/seed/aestheticlitter/800/800",
+      "imageHint": "aesthetic litter box"
+    },
+    {
+      "id": "cat-smart-litter",
+      "description": "Kedi Tuvaleti - Akıllı Seri",
+      "imageUrl": "https://picsum.photos/seed/smartlitter/800/800",
+      "imageHint": "smart cat toilet"
+    },
+    {
+      "id": "pallet-food-classic",
+      "description": "Paletten Yem Kabı - Klasik Seri",
+      "imageUrl": "https://picsum.photos/seed/palletfood/800/800",
+      "imageHint": "pallet food station"
+    },
+    {
+      "id": "cat-spool-food",
+      "description": "Makaradan Yem Kabı",
+      "imageUrl": "https://picsum.photos/seed/spoolfood/800/800",
+      "imageHint": "spool food station"
+    },
+    {
+      "id": "cat-elite-castle",
+      "description": "Elite Mobil Şato",
+      "imageUrl": "https://picsum.photos/seed/elitecastle/800/1000",
+      "imageHint": "elite cat castle"
+    },
+    {
+      "id": "hero-banner",
+      "description": "Mağaza Karşılama Görseli",
+      "imageUrl": "https://picsum.photos/seed/makaraphero/1200/600",
+      "imageHint": "cat furniture banner"
+    }
+  ]
+}
